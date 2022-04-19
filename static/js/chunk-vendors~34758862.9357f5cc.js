@@ -1,0 +1,1 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-vendors~34758862"],{2498:function(n,e,c){"use strict";const o={FONT_SIZE:48,PADDING:10,RADIUS:8,CUTOFF:.25};e["a"]=Object.freeze(o)}}]);

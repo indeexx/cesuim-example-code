@@ -1,0 +1,1 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-vendors~22822dd8"],{2909:function(n,o,s){"use strict";var e=s("e7b5");o["a"]=e.version}}]);
